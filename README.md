@@ -1,1 +1,1 @@
-# Data_Science
+Veri Bilimi Boot Camp Projeleri
